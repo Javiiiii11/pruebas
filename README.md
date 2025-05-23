@@ -1,35 +1,35 @@
-# 🏋️‍♂️ GymRace – Aplicación Fitness | TFG DAM
+# 🏋️‍♂️ GymRace – Aplicación Fitness | 📱 TFG DAM
 
-**GymRace** es una aplicación móvil desarrollada como Trabajo de Fin de Grado (TFG) del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Diseñada para facilitar el entrenamiento, la nutrición y la motivación mediante rutinas personalizadas, dietas detalladas y un sistema de desafíos entre amigos.
-
----
-
-## 📂 Estructura del Proyecto
-
-| Módulo         | Descripción                             | Repositorio |
-|----------------|-----------------------------------------|-------------|
-| 📱 App Android | Aplicación móvil desarrollada en Kotlin | [Ver repositorio](https://github.com/tu-usuario/gymrace-android) |
-| 🌐 Web         | Página de descarga hecha con Flask       | [Ver repositorio](https://github.com/tu-usuario/gymrace-web) |
-| 🧠 Backend     | Lógica de servidor, base de datos y API  | [Ver repositorio](https://github.com/tu-usuario/gymrace-backend) |
+**GymRace** es una aplicación móvil desarrollada como Trabajo de Fin de Grado (TFG) del Ciclo Formativo de Grado Superior en **💻 Desarrollo de Aplicaciones Multiplataforma (DAM)**. Su objetivo es facilitar el entrenamiento, la nutrición y la motivación mediante rutinas personalizadas, dietas detalladas y un sistema de desafíos entre amigos.
 
 ---
 
-## 👨‍💻 Sobre el autor
+## 📁 Estructura del Proyecto
 
-Desarrollado por **Javier**, estudiante del ciclo **DAM** apasionado por el desarrollo de apps funcionales y útiles.
-
-- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)  
-- Email: javieraplicacionesweb11@gmail.com
+| 📦 Módulo         | 📋 Descripción                            | 🔗 Repositorio |
+|------------------|--------------------------------------------|----------------|
+| 📱 **App Android** | Aplicación móvil desarrollada en Kotlin   | [Ver repositorio](https://github.com/tu-usuario/gymrace-android) |
+| 🌐 **Web**         | Página de descarga hecha con Flask        | [Ver repositorio](https://github.com/tu-usuario/gymrace-web) |
+| 🧠 **Backend**     | API REST y lógica del servidor en Python  | [Ver repositorio](https://github.com/tu-usuario/gymrace-backend) |
 
 ---
 
-## ✨ Características principales
+## 👤 Sobre mí
 
-- 🏋️‍♀️ **Explora ejercicios con GIFs, descripciones y consejos**
-- 🧠 **Crea y comparte rutinas propias**
-- 🍽️ **Consulta dietas por objetivo y tipo**
-- 👥 **Sistema de amigos, seguidores y desafíos**
-- 🔒 **Privacidad: elige quién ve tus rutinas y logros**
+Desarrollado por **Javier**, estudiante de DAM apasionado por el desarrollo mobile y web 🚀.
+
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)  
+- 📧 Email: [javieraplicacionesweb11@gmail.com](mailto:javieraplicacionesweb11@gmail.com)
+
+---
+
+## ✨ Características
+
+- 📚 **Explora ejercicios** con GIFs, descripciones, pasos y consejos
+- 🏗️ **Crea rutinas** y compártelas con otros usuarios
+- 🥗 **Consulta dietas** saludables por objetivos
+- 🏆 **Desafíos entre amigos** para mantener la motivación
+- 🔐 **Privacidad de rutinas y perfil** (modo público o privado)
 
 ---
 
@@ -41,30 +41,31 @@ Vista de la pantalla principal de la aplicación:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🧪 Tecnologías utilizadas
 
-Tú puedes completar esta sección según lo que hayas usado exactamente, por ejemplo:
-
-- **Kotlin** – Desarrollo Android con Jetpack Compose
-- **Flask** – Backend y servidor web para descargas
-- **SQLite / Firebase** – Base de datos y autenticación
-- **Jetpack Navigation** – Navegación entre pantallas
-- **Tailwind CSS** – Estilizado del frontend web
-- **Jinja2** – Templates dinámicos en la web
-
----
-
-## ⚙️ Entornos y herramientas de desarrollo
-
-- **Android Studio** – Para la app móvil
-- **Visual Studio Code** – Para el frontend web
-- **PyCharm** – Para el backend con Flask y Python
-- **GitHub** – Control de versiones y colaboración
+- 📱 **Kotlin + Jetpack Compose** – Interfaz moderna y fluida
+- 🌐 **Flask (Python)** – Backend y web de descarga
+- 🗃️ **SQLite / Firebase** – Base de datos local + autenticación
+- 🎨 **Tailwind CSS** – Estilos del frontend web
+- ⚙️ **Jinja2** – Templates dinámicos para HTML
+- 🧭 **Jetpack Navigation** – Transiciones animadas entre pantallas
+- 📡 **REST API** – Comunicación entre frontend y backend
 
 ---
 
-## 🚀 Instalación y despliegue
+## 🧰 Herramientas de desarrollo
 
-1. Clona el repositorio de la app:
+- 🛠️ **Android Studio** – Desarrollo de la app Android
+- 🧑‍💻 **Visual Studio Code** – Web y edición ligera
+- 🐍 **PyCharm** – Backend y desarrollo en Python
+- 🐙 **GitHub** – Repositorios y control de versiones
+- 🧪 **Postman** – Pruebas de la API
+- 📷 **ScreenToGif** – Captura de GIFs para los ejercicios
+
+---
+
+## 🚀 Cómo ejecutar el proyecto
+
+1. 📥 Clona el repositorio principal:
    ```bash
    git clone https://github.com/tu-usuario/gymrace-android
