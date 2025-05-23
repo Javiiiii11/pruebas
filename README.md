@@ -1,6 +1,14 @@
-# 🏋️‍♂️ GymRace – Aplicación Fitness | 📱 TFG DAM
+# 🏋️‍♀️ Aplicación fitnes **Gymrace**
 
-**GymRace** es una aplicación móvil desarrollada como Trabajo de Fin de Grado (TFG) del Ciclo Formativo de Grado Superior en **💻 Desarrollo de Aplicaciones Multiplataforma (DAM)**. Su objetivo es facilitar el entrenamiento, la nutrición y la motivación mediante rutinas personalizadas, dietas detalladas y un sistema de desafíos entre amigos.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Javiiiii11/TFG-GymRace?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/Javiiiii11/TFG-GymRace?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Javiiiii11/TFG-GymRace?style=flat-square" />
+  <img src="https://img.shields.io/github/license/Javiiiii11/TFG-GymRace?style=flat-square" />
+</p>
+
+🎯 **Proyecto de TFG centrado en el seguimiento y progreso de entrenamientos de gimnasio.**  
+📱 Aplicación movil moderna, visual e intuitiva.
 
 ---
 
@@ -15,60 +23,114 @@
 | 💻 **App PC (Admin)** | Aplicación de escritorio para administración.     | [GitHub - TFG-App-Admin](https://github.com/Javiiiii11/TFG-App-Admin) |
 
 </div>
----
-
-## 👤 Sobre mí
-
-Desarrollado por **Javier**, estudiante de DAM apasionado por el desarrollo mobile y web 🚀.
-
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)  
-- 📧 Email: [javieraplicacionesweb11@gmail.com](mailto:javieraplicacionesweb11@gmail.com)
 
 ---
 
-## ✨ Características
+## ⚙️ Tecnologías
 
-- 📚 **Explora ejercicios** con GIFs, descripciones, pasos y consejos
-- 🏗️ **Crea rutinas** y compártelas con otros usuarios
-- 🥗 **Consulta dietas** saludables por objetivos
-- 🏆 **Desafíos entre amigos** para mantener la motivación
-- 🔐 **Privacidad de rutinas y perfil** (modo público o privado)
+<div align="center">
+  <p>
+  <!-- Kotlin -->
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Kotlin" />
+  
+  <!-- Jetpack Compose (manual) -->
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jetpackcompose-auto.svg" width="50" alt="Jetpack Compose" />
+  
+  <!-- Flask -->
+  <img src="https://skillicons.dev/icons?i=flask" width="50" alt="Flask" />
+  
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python" />
+  
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" />
+  
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" />
+  
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+  
+  <!-- Firebase -->
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" />
+</p>
+
+</div>
+
+---
+## ⚙️ IDE
+
+<div align="center">
+  <p>
+
+  <!-- Android Studio -->
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/androidstudio-auto.svg" width="50" alt="Android Studio" />
+
+  <!-- pycharm -->
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pycharm-auto.svg" width="50" alt="Android Studio" />
+  
+  <!-- vscode -->
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" width="50" alt="Android Studio" />
+  
+</p>
+
+</div>
+
+---
+## ⚙️ Disponible para
+
+<div align="center">
+  <p>
+
+  <!-- Android -->
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/android-auto.svg" width="50" alt="Android Studio" />
+
+  <!-- windows -->
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/windows-auto.svg" width="50" alt="Android Studio" />
+
+</p>
+
+</div>
 
 ---
 
-## 🖼️ Vista previa
-
-Vista de la pantalla principal de la aplicación:
-
-![Pantalla principal de GymRace](assets/screenshot_main.png)
-
----
-
-## 🧪 Tecnologías utilizadas
-
-- 📱 **Kotlin + Jetpack Compose** – Interfaz moderna y fluida
-- 🌐 **Flask (Python)** – Backend y web de descarga
-- 🗃️ **SQLite / Firebase** – Base de datos local + autenticación
-- 🎨 **Tailwind CSS** – Estilos del frontend web
-- ⚙️ **Jinja2** – Templates dinámicos para HTML
-- 🧭 **Jetpack Navigation** – Transiciones animadas entre pantallas
-- 📡 **REST API** – Comunicación entre frontend y backend
+## 📸 Interfaz (Preview)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d2816b51-d43e-455f-95ec-5c10cac78de0" alt="Image" width="600"/>
+</div>
 
 ---
 
-## 🧰 Herramientas de desarrollo
+## 📥 Clonación rápida
 
-- 🛠️ **Android Studio** – Desarrollo de la app Android
-- 🧑‍💻 **Visual Studio Code** – Web y edición ligera
-- 🐍 **PyCharm** – Backend y desarrollo en Python
-- 🐙 **GitHub** – Repositorios y control de versiones
-- 🧪 **Postman** – Pruebas de la API
-- 📷 **ScreenToGif** – Captura de GIFs para los ejercicios
-
+```bash
+git clone https://github.com/Javiiiii11/TFG-GymRace.git
+cd TFG-GymRace
+```
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## 👨‍💻 Sobre mí
 
-1. 📥 Clona el repositorio principal:
-   ```bash
-   git clone https://github.com/tu-usuario/gymrace-android
+<div align="center">
+  <p>
+    <!-- User Icon -->
+    <img src="https://img.icons8.com/ios-filled/100/000000/user.png" width="50" alt="User icon" />
+    <br/>
+    <strong>Javier Rdríguez Jiménez</strong>
+    <br/>
+    🎓 Trabajo de Fin de Grado – Desarrollo de Aplicaciones Multiplataforma (DAM)
+    <br/><br/>
+    <!-- Email Badge -->
+    <a href="mailto:javieraplicacionesweb@gmail.com">
+      <img src="https://img.shields.io/badge/Email-javieraplicacionesweb@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <br/>
+    </a>
+    <!-- GitHub Badge -->
+    <a href="https://github.com/Javiiiii11">
+      <img src="https://img.shields.io/badge/GitHub-Javiiiii11-181717?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+
+---
