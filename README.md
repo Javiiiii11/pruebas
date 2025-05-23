@@ -4,14 +4,17 @@
 
 ---
 
-## 📁 Estructura del Proyecto
+## 🔗 Repositorios del Proyecto
 
-| 📦 Módulo         | 📋 Descripción                            | 🔗 Repositorio |
-|------------------|--------------------------------------------|----------------|
-| 📱 **App Android** | Aplicación móvil desarrollada en Kotlin   | [Ver repositorio](https://github.com/tu-usuario/gymrace-android) |
-| 🌐 **Web**         | Página de descarga hecha con Flask        | [Ver repositorio](https://github.com/tu-usuario/gymrace-web) |
-| 🧠 **Backend**     | API REST y lógica del servidor en Python  | [Ver repositorio](https://github.com/tu-usuario/gymrace-backend) |
+<div align="center">
 
+| Aplicación         | Descripción                                        | Enlace                                                                 |
+|--------------------|----------------------------------------------------|------------------------------------------------------------------------|
+| 📱 **App Móvil**      | Aplicación Android para usuarios del gimnasio.     | [GitHub - TFG-GymRace](https://github.com/Javiiiii11/TFG-GymRace)     |
+| 🌐 **App Web**        | Interfaz web con funcionalidades complementarias.  | [GitHub - TFG-GymRace-Web](https://github.com/Javiiiii11/TFG-GymRace-Web) |
+| 💻 **App PC (Admin)** | Aplicación de escritorio para administración.     | [GitHub - TFG-App-Admin](https://github.com/Javiiiii11/TFG-App-Admin) |
+
+</div>
 ---
 
 ## 👤 Sobre mí
