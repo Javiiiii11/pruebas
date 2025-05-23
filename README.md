@@ -96,7 +96,7 @@
 
 ## 📸 Interfaz (Preview)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2816b51-d43e-455f-95ec-5c10cac78de0" alt="Image" width="600"/>
+  <img src="https://github.com/user-attachments/assets/79e9d802-fd95-421c-afaf-aa8a3cb053ad" alt="Image" width="600"/>
 </div>
 
 ---
